@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: |cffd9a54cLore Log|r
+## Notes: A living chronicle of your character's journey, written as you play.
+## Author: Lore Log
+## Version: 1.0.0
+## SavedVariables: LoreLogDB
+## SavedVariablesPerCharacter: LoreLogCharDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+## AddonCompartmentFunc: LoreLog_OnAddonCompartmentClick
+
+Core.lua
+Data.lua
+Themes.lua
+Tracker.lua
+Narrator.lua
+UI.lua
+Minimap.lua
+SpellbookTab.lua

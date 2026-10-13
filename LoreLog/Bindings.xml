@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="LORELOG_TOGGLE" header="LORELOG_HEADER">
+        if LoreLog and LoreLog.UI then LoreLog.UI.Toggle() end
+    </Binding>
+</Bindings>
